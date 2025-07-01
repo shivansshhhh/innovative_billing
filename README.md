@@ -64,5 +64,4 @@ This project is licensed under the MIT License.
 
 ---
 
-**Developed by [Your Name]**  
-[Portfolio Link] • [LinkedIn] • [Email]
+**Developed by Shivansh Panwar and Kunal Kumar Dev**  
