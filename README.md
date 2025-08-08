@@ -54,14 +54,4 @@ The web-based dashboard allows pharmacists to:
 - Admin dashboard with analytics
 - QR code scanning for billing
 
-## 📷 Screenshots
-
-> Include screenshots of your PHP billing dashboard and Android app UI here.
-
-## 📃 License
-
-This project is licensed under the MIT License.
-
----
-
 **Developed by Shivansh Panwar and Kunal Kumar Dev**  
