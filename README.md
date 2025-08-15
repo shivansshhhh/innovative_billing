@@ -54,4 +54,6 @@ The web-based dashboard allows pharmacists to:
 - Admin dashboard with analytics
 - QR code scanning for billing
 
+### Not a MIT Licensed project.
+
 **Developed by Shivansh Panwar and Kunal Kumar Dev**  
