@@ -16,12 +16,12 @@ A real-time pharmacy billing and inventory management system built with **PHP** 
 | Component         | Technology      |
 |------------------|-----------------|
 | Backend (Billing)| PHP + MySQL     |
-| Customer App     | Java (Android)  |
+| Customer App     | Java (Flutter)  |
 | API Communication| REST (JSON)     |
 
-## 📱 Android App (Java)
+## 📱 Android App (Flutter)
 
-The Android app connects directly to the backend via RESTful APIs and allows:
+The Android app connects directly to the backend via JSON APIs and allows:
 - Checking availability of medicines
 - Viewing pharmacy location details
 - Making medicine requests or reservations
@@ -33,23 +33,6 @@ The web-based dashboard allows pharmacists to:
 - Generate customer bills and apply discounts
 - Update medicine records efficiently
 
-## 🔧 Setup Instructions
-
-### 📌 Backend (PHP)
-
-1. Clone the repository.
-2. Import the database from `database.sql`.
-3. Configure your database credentials in `config.php`.
-4. Host it using Apache/XAMPP/Laragon.
-
-### 📌 Android App (Flutter)
-
-1. Open the `/pharmacy_customer_app` folder in Flutter set in VS Code or Android Studio.
-2. Update the base API URL in the app’s constants file. (Ngrok URL)
-3. Build and run on an emulator or Android device.
-      flutter clean
-      flutter pub get
-      flutter run
    
 ## 🚀 Future Enhancements
 
