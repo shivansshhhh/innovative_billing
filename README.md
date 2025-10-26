@@ -42,18 +42,23 @@ The web-based dashboard allows pharmacists to:
 3. Configure your database credentials in `config.php`.
 4. Host it using Apache/XAMPP/Laragon.
 
-### 📌 Android App (Java)
+### 📌 Android App (Flutter)
 
-1. Open the `/android-app` folder in Android Studio.
-2. Update the base API URL in the app’s constants file.
+1. Open the `/pharmacy_customer_app` folder in Flutter set in VS Code or Android Studio.
+2. Update the base API URL in the app’s constants file. (Ngrok URL)
 3. Build and run on an emulator or Android device.
-
+      flutter clean
+      flutter pub get
+      flutter run
+   
 ## 🚀 Future Enhancements
 
 - Online ordering & delivery tracking
 - Admin dashboard with analytics
 - QR code scanning for billing
 
-### Not a MIT Licensed project.
+### Not a MIT Licensed project copyrights are priserved copying or stealing repo is prohabited.
+
+### Still in the Work.....
 
 **Developed by Shivansh Panwar and Kunal Kumar Dev**  
